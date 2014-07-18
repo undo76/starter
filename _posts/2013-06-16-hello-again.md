@@ -3,7 +3,7 @@ layout: blog
 category: blog
 published: true
 splash: "http://placehold.it/1600x500"
-title: Una prueba
+title: Otra prueba
 ---
 
 ## Proin at eros
